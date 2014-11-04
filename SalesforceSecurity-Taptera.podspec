@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.source_files = "SalesforceSecurity/Classes/*.{h,m}"
 
-  s.header_dir = 'SalesforceSecurity/Classes'
+  s.header_dir = 'SalesforceSecurity'
 
   s.dependency 'Salesforce-Common-Utils-iOS-Taptera', '2.3'
   s.dependency 'MKNetworkKit-Salesforce-Taptera'
