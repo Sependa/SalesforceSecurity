@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>567FD3D5-68F6-48CB-91B9-D2C9594056F6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SalesforceSecurity</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>48F3CE930C2CBFB8309933385C54A096B215D149</key>
+		<string>https://github.com/forcedotcom/SalesforceMobileSDK-iOS-Dependencies.git</string>
+		<key>7C80E369FFE652F462AD8B47C12C2751E63BBDFE</key>
+		<string>https://github.com/forcedotcom/SalesforceMobileSDK-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>shared/SalesforceSecurity/SalesforceSecurity.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>48F3CE930C2CBFB8309933385C54A096B215D149</key>
+		<string>../../../..external/ThirdPartyDependencies/</string>
+		<key>7C80E369FFE652F462AD8B47C12C2751E63BBDFE</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/forcedotcom/SalesforceMobileSDK-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7C80E369FFE652F462AD8B47C12C2751E63BBDFE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7C80E369FFE652F462AD8B47C12C2751E63BBDFE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SalesforceMobileSDK-iOS</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>48F3CE930C2CBFB8309933385C54A096B215D149</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ThirdPartyDependencies</string>
+		</dict>
+	</array>
+</dict>
+</plist>
