@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.header_dir = 'SalesforceSecurity'
 
-  s.dependency 'Salesforce-Common-Utils-iOS-Taptera', '2.3'
+  s.dependency 'Salesforce-Common-Utils-iOS-Taptera', '2.3.1'
   s.dependency 'MKNetworkKit-Salesforce-Taptera'
 
   s.prefix_header_file = 'SalesforceSecurity/SalesforceSecurity-Prefix.pch'
