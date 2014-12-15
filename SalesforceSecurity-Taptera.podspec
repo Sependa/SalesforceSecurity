@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "SalesforceSecurity-Taptera"
-  s.version = "2.3"
+  s.version = "2.3.1"
   s.summary = "Taptera version of Salesforce Security for iOS."
   s.homepage = "https://github.com/Taptera/SalesforceNetworkSDK"
   s.license      = {:type => 'custom', :file => 'LICENSE.md'}
